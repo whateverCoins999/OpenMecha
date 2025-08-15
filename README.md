@@ -17,12 +17,12 @@ Simply download the `.exe` file and run it — no Python or installation require
 If you want to run the script manually, you'll need:
 
 * **Python 3.x**
-* Required libraries: `pygame`, `pynput`
+* Required libraries: `pygame`, `pynput`, `pystray`, `pillow`
 
 Install the dependencies with:
 
 ```bash
-pip install pygame pynput
+pip install pygame pynput pystray pillow
 ```
 
 ---
