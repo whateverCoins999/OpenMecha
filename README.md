@@ -33,4 +33,5 @@ There are several sources for keyboard sounds. Here are two repositories to get 
 
 * [MechVibes Classic Pack](https://github.com/ghoomfrog/mechvibes-classic-pack)
 * [MechVibes LoFi Keyboard](https://github.com/Dark-Witcher/MechVibes-LoFi-Keyboard)
+* [Bucklespring](https://github.com/zevv/bucklespring)
 
